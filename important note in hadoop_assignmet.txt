@@ -1,0 +1,1 @@
+There is a important Note in tar.gz file in hadoop_assignment,read it first,thank you.
